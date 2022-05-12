@@ -1,2 +1,4 @@
-# frontend-mentor-challenge5
-Frontend Mentor Stats preview challenge
+On this project I used methods like:
+
+1-Overlay.
+2-flex-direction.
